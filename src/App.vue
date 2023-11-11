@@ -28,7 +28,7 @@ export default defineComponent({
   }
 
   .content {
-    padding: 1.25rem;
+    // padding: 1.25rem;
   }
 }
 

@@ -11,7 +11,7 @@ import echarts from '@/util/echarts'
 // 引入Element-Plus
 import ElementPlus from 'element-plus'
 import 'element-plus/dist/index.css'
-import zhCn from 'element-plus/dist/locale/zh-cn.mjs'
+import zhCn from 'element-plus/es/locale/lang/zh-cn'
 
 // 引入Element-Plus图标
 import * as ElementPlusIconVue from '@element-plus/icons-vue'
